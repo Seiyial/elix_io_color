@@ -4,7 +4,7 @@ defmodule PrettyInspect.MixProject do
   def project do
     [
       app: :io_color,
-      description: "Wrapping `IO.inspect` and `IO.puts` in vibrant colors. Est 2018.",
+      description: "Wrapping your `IO.inspect` and `IO.puts` in vibrant colors since 2018.",
       package: [
         licenses: ["MIT"],
         links: %{"GitHub & Documentation" => "https://github.com/Seiyial/elix_io_color"},
