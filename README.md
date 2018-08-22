@@ -6,12 +6,12 @@ No external dependencies.
 
 ## Installation
 
-Add `{:io_color, "~> 0.1.0"}` to your dependencies.
+Add `{:io_color, "~> 0.2.0"}` to your dependencies.
 
 ```elixir
 def deps do
   [
-    {:io_color, "~> 0.1.0"}
+    {:io_color, "~> 0.2.0"}
   ]
 end
 ```
