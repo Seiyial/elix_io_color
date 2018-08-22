@@ -11,7 +11,7 @@ Add `{:io_color, "~> 0.1.0"}` to your dependencies.
 ```elixir
 def deps do
   [
-    {:pretty_inspect, "~> 0.1.0"}
+    {:io_color, "~> 0.1.0"}
   ]
 end
 ```
