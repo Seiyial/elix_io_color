@@ -38,17 +38,17 @@ What your current IO.inspect looks like:
 
 
 
-##### Wait, ```IOC.insp```?
+#### Wait, ```IOC.insp```?
 
 All of these will work, choose whichever you like!
 
 ```elixir
-IOC.insp(list, "optional label")
-IOC.inspect(list, "optional label")
-IOColor.insp(list, "optional label")
-IOColored.insp(list, "optional label")
-IOColor.inspect(list, "optional label")
-IOColored.inspect(list, "optional label")
+IOC.insp(list, "something")
+IOC.inspect(list, "something")
+IOColor.insp(list, "something")
+IOColored.insp(list, "something")
+IOColor.inspect(list, "something")
+IOColored.inspect(list, "something")
 
 # `IO.puts`: accepts one arg only
 IOC.puts("Some string")
@@ -56,7 +56,7 @@ IOColor.puts("Some string")
 IOColored.puts("Some string")
 ```
 
-##### Will my `|>`s still work?
+#### Will my `|>`s still work?
 
 Of course!
 
